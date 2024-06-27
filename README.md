@@ -2,6 +2,14 @@
   - 👀 I’m interested in web projects and small python scripts
   - 🌱 I’m currently learning C#
   - 😄 Pronouns: he/him
+    <br>
+    <br>
+
+    Current Ubuntu-Server Setup im working at in school:
+    <br>
+    <br>
+    ![Current Ubuntu-Server Setup](hostsystem.png)
+
 
     ## Web Projects:
     
