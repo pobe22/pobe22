@@ -52,6 +52,12 @@
     <br>
     <br>
 
+    [SoundCloud Downloader]((https://github.com/pobe22/sc_downloader))
+
+    automated downloader for soundcloud playlists
+    <br>
+    <br>
+
     ## C# Projects:
     
     [Tierpension](https://github.com/pobe22/Tierpension)
