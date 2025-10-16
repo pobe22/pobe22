@@ -69,5 +69,25 @@
     [Collection](https://github.com/pobe22/Collection)
 
     small project to test out data structures
+    <br>
+    <br>
+    
+    ## .NET Core Projects:
+    
+    [StreamingZeiger](https://github.com/pobe22/StreamingZeiger)
 
+    web project for managing and recommmending movies and series
+    <br>
+    <br>
+    
+    [ProjectMate](https://github.com/pobe22/ProjectMate)
+
+    web-based project manager
+    <br>
+    <br>
+
+    [Archery](https://github.com/pobe22/Archery)
+
+    web project for tracking games in 3D archery 
+    
 
