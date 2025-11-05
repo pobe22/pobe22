@@ -34,9 +34,9 @@
 
     ## Python Projects:
     
-    [SEO](https://github.com/pobe22/SEO)
+    [pytools](https://github.com/pobe22/pytools)
     
-    script for search engine optimization
+    streamlit website with useful scripts for SEO, soundcloud downloader and pdf converter
     <br>
     <br>
     
@@ -49,12 +49,6 @@
     [Spotify Playlist Backup](https://github.com/pobe22/automate_spotify_simple)
 
     automated script for playlist logging
-    <br>
-    <br>
-
-    [SoundCloud Downloader](https://github.com/pobe22/sc_downloader)
-
-    automated downloader for soundcloud playlists
     <br>
     <br>
 
